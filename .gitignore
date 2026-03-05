@@ -1,0 +1,14 @@
+# Security
+token.env
+.env
+
+# Audio Files and Playlists
+*.mp3
+aura/
+mommy/
+
+# Heavy Applications
+ffmpeg.exe
+
+# Python Caches
+__pycache__/
